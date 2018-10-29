@@ -1,6 +1,9 @@
 HELLO WORLD
 
-// branch b1
+/ branch b1
 func1()
+
+// branch b2
+func2()
 ...
 
